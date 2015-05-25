@@ -1,0 +1,135 @@
+---
+"/Users/tarun/Dropbox/Projects/crmdfinder/_posts/core-samples/2011-12-29-jekyll-introduction.md":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps:
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/setup"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/is_production"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/liquid_raw"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/themes/bootstrap-3/post.html"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/categories_list"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/tags_list"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/comments"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/comments-providers/disqus"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_layouts/post.html"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/themes/bootstrap-3/default.html"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/pages_list"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/analytics"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_layouts/default.html"
+"/Users/tarun/Dropbox/Projects/crmdfinder/archive.html":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps:
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/setup"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/is_production"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/posts_collate"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/themes/bootstrap-3/page.html"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_layouts/page.html"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/themes/bootstrap-3/default.html"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/pages_list"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/analytics"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_layouts/default.html"
+"/Users/tarun/Dropbox/Projects/crmdfinder/atom.xml":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps: []
+"/Users/tarun/Dropbox/Projects/crmdfinder/categories.html":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps:
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/setup"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/is_production"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/categories_list"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/pages_list"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/themes/bootstrap-3/page.html"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_layouts/page.html"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/themes/bootstrap-3/default.html"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/analytics"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_layouts/default.html"
+"/Users/tarun/Dropbox/Projects/crmdfinder/index.md":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps:
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/setup"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/is_production"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/themes/bootstrap-3/page.html"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_layouts/page.html"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/themes/bootstrap-3/default.html"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/pages_list"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/analytics"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_layouts/default.html"
+"/Users/tarun/Dropbox/Projects/crmdfinder/pages.html":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps:
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/setup"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/is_production"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/pages_list"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/themes/bootstrap-3/page.html"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_layouts/page.html"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/themes/bootstrap-3/default.html"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/analytics"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_layouts/default.html"
+"/Users/tarun/Dropbox/Projects/crmdfinder/rss.xml":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps: []
+"/Users/tarun/Dropbox/Projects/crmdfinder/sitemap.txt":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps: []
+"/Users/tarun/Dropbox/Projects/crmdfinder/tags.html":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps:
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/setup"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/is_production"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/tags_list"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/pages_list"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/themes/bootstrap-3/page.html"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_layouts/page.html"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/themes/bootstrap-3/default.html"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_includes/JB/analytics"
+  - "/Users/tarun/Dropbox/Projects/crmdfinder/_layouts/default.html"
+"/Users/tarun/Dropbox/Projects/crmdfinder/404.html":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps: []
+"/Users/tarun/Dropbox/Projects/crmdfinder/CNAME":
+  mtime: 2015-05-25 12:39:32.000000000 -04:00
+  deps: []
+"/Users/tarun/Dropbox/Projects/crmdfinder/History.markdown":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps: []
+"/Users/tarun/Dropbox/Projects/crmdfinder/LICENSE":
+  mtime: 2015-05-25 12:38:14.000000000 -04:00
+  deps: []
+"/Users/tarun/Dropbox/Projects/crmdfinder/assets/themes/bootstrap-3/bootstrap/css/bootstrap-theme.min.css":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps: []
+"/Users/tarun/Dropbox/Projects/crmdfinder/assets/themes/bootstrap-3/bootstrap/css/bootstrap.min.css":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps: []
+"/Users/tarun/Dropbox/Projects/crmdfinder/assets/themes/bootstrap-3/bootstrap/css/bs-sticky-footer.css":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps: []
+"/Users/tarun/Dropbox/Projects/crmdfinder/assets/themes/bootstrap-3/bootstrap/fonts/glyphicons-halflings-regular.eot":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps: []
+"/Users/tarun/Dropbox/Projects/crmdfinder/assets/themes/bootstrap-3/bootstrap/fonts/glyphicons-halflings-regular.svg":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps: []
+"/Users/tarun/Dropbox/Projects/crmdfinder/assets/themes/bootstrap-3/bootstrap/fonts/glyphicons-halflings-regular.ttf":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps: []
+"/Users/tarun/Dropbox/Projects/crmdfinder/assets/themes/bootstrap-3/bootstrap/fonts/glyphicons-halflings-regular.woff":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps: []
+"/Users/tarun/Dropbox/Projects/crmdfinder/assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps: []
+"/Users/tarun/Dropbox/Projects/crmdfinder/assets/themes/bootstrap-3/css/style.css":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps: []
+"/Users/tarun/Dropbox/Projects/crmdfinder/assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps: []
+"/Users/tarun/Dropbox/Projects/crmdfinder/assets/themes/twitter/bootstrap/img/glyphicons-halflings-white.png":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps: []
+"/Users/tarun/Dropbox/Projects/crmdfinder/assets/themes/twitter/bootstrap/img/glyphicons-halflings.png":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps: []
+"/Users/tarun/Dropbox/Projects/crmdfinder/assets/themes/twitter/css/style.css":
+  mtime: 2015-05-25 12:34:52.000000000 -04:00
+  deps: []
